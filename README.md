@@ -1,14 +1,11 @@
 # 🧠 Amazon Review Helpfulness Prediction
 
 ## 📌 Descripción
-Sistema que predice la utilidad de reseñas de productos utilizando técnicas de NLP y Machine Learning.
-
-## 🎯 Objetivo
-Predecir si una reseña será útil para otros usuarios.
+Sistema que predice la utilidad de reseñas usando NLP y ML.
 
 ## 📊 Dataset
 - Fuente: Amazon Reviews
-- ⚠️ No incluido en el repositorio por su gran tamaño
+- Tamaño: grande (no incluido en repo)
 
 ## ⚙️ Tecnologías
 - Python
@@ -16,4 +13,16 @@ Predecir si una reseña será útil para otros usuarios.
 - Scikit-learn
 - NLP
 
-## 📁 Estructura del proyecto
+## 🚀 Cómo ejecutar
+1. Clonar repo
+2. Instalar dependencias
+3. Ejecutar notebook
+
+## 📈 Modelos
+- Regresión logística
+- Random Forest
+
+## 👥 Equipo
+- Byron Torres
+- Monica Cholango
+- Jose Arevalo
