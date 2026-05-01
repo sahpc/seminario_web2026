@@ -1,13 +1,7 @@
-data/raw/Reviews.csv 
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.env
-*.pkl
-*.csv
 00_datos_crudos/*
-01_datos_procesados/*
 !00_datos_crudos/README.md
+
+01_datos_procesados/*
 !01_datos_procesados/README.md
 
 __pycache__/
