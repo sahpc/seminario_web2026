@@ -16,6 +16,7 @@ Sistema que predice la utilidad de reseñas usando NLP y ML.
 ## Link
 
 https://we-human-centric.github.io/CursoPythonDatos_2026/index.html
+####################3
 https://we-human-centric.github.io/CursoPythonDatos_2026/casos/caso_06.html
 
 
