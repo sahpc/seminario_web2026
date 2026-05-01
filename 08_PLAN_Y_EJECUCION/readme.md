@@ -6,12 +6,7 @@ Sistema que predice la utilidad de reseñas usando NLP y ML.
 ## 📊 Dataset
 - Fuente: Amazon Reviews
 - Tamaño: grande (no incluido en repo)
-## Estructura
-- datos_crudos: datos originales
-- datos_procesados: datos limpios
-- scripts: código reutilizable
-- cuadernos: análisis exploratorio
-- modelos: modelos entrenados
+
 ## ⚙️ Tecnologías
 - Python
 - Pandas
