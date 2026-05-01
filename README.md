@@ -1,4 +1,5 @@
 # 🧠 Amazon Review Helpfulness Prediction
+<<<<<<< HEAD
 
 ## 📌 Descripción
 Sistema que predice la utilidad de reseñas usando NLP y ML.
@@ -35,19 +36,30 @@ https://we-human-centric.github.io/CursoPythonDatos_2026/casos/caso_06.html
 - Jose Arevalo
 =======
 # seminario_web2026
+=======
+>>>>>>> b2c13fd (Update README)
 
-Repositorio para proyecto web
-Caso 06	Reseñas Amazon — Predicción de Utilidad
-Nombre del Grupo: Grupo 6
-  Integrantes:
-  Byron Torres
-  Monica Cholango
-  Jose Arevalo
+## 📌 Descripción
+Sistema que predice la utilidad de reseñas de productos utilizando técnicas de NLP y Machine Learning.
 
+## 🎯 Objetivo
+Predecir si una reseña será útil para otros usuarios.
 
+## 📊 Dataset
+- Fuente: Amazon Reviews
+- ⚠️ No incluido en el repositorio por su gran tamaño
 
+## ⚙️ Tecnologías
+- Python
+- Pandas
+- Scikit-learn
+- NLP
 
+<<<<<<< HEAD
 Objetivo del proyecto
 
 Construir un sistema que prediga la utilidad percibida de una reseña de e-commerce mediante ingeniería de características textuales, comparar un modelo interpretable con uno de mayor complejidad, y desarrollar una herramienta que ayude a los usuarios a mejorar la calidad de sus reseñas en tiempo real.
 
+=======
+## 📁 Estructura del proyecto
+>>>>>>> b2c13fd (Update README)
