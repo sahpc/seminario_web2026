@@ -1,18 +1,14 @@
-# Datos Crudos
+# Cuadernos
 
-## Dataset
-Amazon Fine Food Reviews
+Esta carpeta contiene los notebooks oficiales del proyecto.
 
-## Fuente
-https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+## Archivos obligatorios
+- `01_preparacion_datos.ipynb`
+- `02_edad.ipynb`
 
-## Tamaño esperado
-~300 MB (archivo completo)
-
-## Descarga
-
-```bash
-pip install kaggle
-
-kaggle datasets download -d snap/amazon-fine-food-reviews
-unzip amazon-fine-food-reviews.zip
+## Requisitos
+- Deben correr de principio a fin sin errores
+- Deben leer desde `00_datos_crudos/`
+- Deben guardar resultados en `01_datos_procesados/`
+- Cada bloque de código debe estar precedido por una celda markdown que explique qué se hace y por qué
+- Deben incluir validaciones con `assert`
