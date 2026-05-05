@@ -19,6 +19,18 @@ Este documento registra todas las interacciones significativas con herramientas 
 
 
 
+## Entrada 2
+- **Fecha:** 2026-05-05
+- **Integrante:** Byron Torres
+- **Herramienta:** ChatGPT / Codex
+- **Tarea:** Comprensión conceptual de EDA para el análisis de datos en Python (Google Colab)
+- **Prompt resumido:** Explicar qué es el EDA (Exploratory Data Analysis) de forma clara y bien redactada para su uso en un proyecto
+- **Salida que aceptamos:**Definición clara de EDA, incluyendo objetivos, importancia y aplicación práctica en Python, redactada de forma formal y adecuada para documentación o informe
+- **Salida que rechazamos o corregimos:** Se simplificaron explicaciones muy extensas y se ajustó la redacción para que sea más clara, directa y alineada al contexto del proyecto
+- **Quién verificó:** Byron Torres
+
+
+
 ## Buenas prácticas seguidas por el equipo
 - No se aceptan salidas de IA sin revisión humana.
 - Todo cambio derivado de IA debe leerse antes de integrarse al proyecto.
